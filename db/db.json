@@ -1,0 +1,52 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "name": "T-Sheert",
+            "category": "Cloths",
+            "price": 2000,
+            "picture": "",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas molestias, rem magni aliquam rerum minus enim. Laborum excepturi nisi delectus modi odit quo alias dolorum, hic, deleniti praesentium impedit vero aliquam ratione officiis iusto consectetur fuga corporis saepe. Officia possimus impedit suscipit laborum adipisci deserunt eligendi itaque sapiente distinctio quis."
+        },
+        {
+            "id": 2,
+            "name": "Col V",
+            "category":"Cloths",
+            "price":2500,
+            "picture":"",
+            "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis illum quaerat nemo voluptate sequi. Nam libero vero, illum voluptatibus, eos expedita rem quaerat debitis in, mollitia veritatis molestiae animi repudiandae!"
+        },
+        {
+            "id": 3,
+            "name": "Jogin",
+            "category": "Cloths",
+            "price": 2800,
+            "picture": "",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam molestias tempora saepe vel ipsum vitae illum dignissimos quis. Ut, accusamus magnam? Nisi distinctio sit suscipit, soluta ea voluptatibus ab maiores ut fugit atque officia, ipsam, illum beatae ipsum animi modi reiciendis! Libero, est natus laudantium, quod, corrupti fugit quaerat beatae praesentium voluptatem recusandae eveniet enim facere reprehenderit eos maiores necessitatibus sit iste ducimus amet! Laboriosam."
+        },
+        {
+            "id": 4,
+            "name": "Pollo",
+            "category":"Cloths",
+            "price":1300,
+            "picture":"",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, similique asperiores impedit iure natus saepe magni error maxime praesentium nesciunt fugit magnam repellendus ipsa facere ad. In consequuntur rerum eum, hic quae amet, facilis iusto praesentium libero neque deserunt quia soluta eos odio voluptas quo."
+        },
+        {
+            "id": 5,
+            "name": "Disque dur SSD",
+            "category":"Storage",
+            "price":130000,
+            "picture":"",
+            "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta, itaque animi. Illo molestias eligendi eveniet dolore velit porro dignissimos a."
+        },
+        {
+            "id": 6,
+            "name": "Disque dur HDD",
+            "category":"Storage",
+            "price":100000,
+            "picture":"",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus magni totam enim nihil magnam. Distinctio, adipisci dolor! At officia provident sed! Amet quo, aliquam quaerat, voluptatem corrupti adipisci earum distinctio nisi odit facere voluptas magnam!"
+        }
+    ]
+}
